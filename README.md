@@ -1,3 +1,3 @@
 # FristDemo
-This is my frist repository 
+This is my frist repository. 
 Auther- Sahil Sutar
